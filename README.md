@@ -1,1 +1,1 @@
-Deployed at [moviexbysharad.tiiny.io](url)
+Deployed at moviexbysharad.tiiny.io
